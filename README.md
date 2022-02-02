@@ -1,2 +1,2 @@
-# cim-443-front-end
+# cim-443-practice-repo
 This is a test
